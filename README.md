@@ -1,0 +1,2 @@
+# githubtraining
+Demo of github
